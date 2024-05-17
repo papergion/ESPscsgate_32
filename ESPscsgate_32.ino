@@ -5,6 +5,11 @@
 
 // per programmare esp32-eth01 connettere IO0 con GND prima di alimentare
 
+// installed library: 
+//     AsyncTCP             1.1.4
+//     Effortless-SPIFFS    2.3.0
+//     WebServer_WT32_ETH01 1.5.1
+
 #define JMP 4
 #define LED_BUILTIN 15
 
